@@ -20,6 +20,7 @@ body {
   body {
     display: block;
     background-color: var(--main-body-color);
+    background-color: red;
   }
 }
 /* livvic-italic - latin */
